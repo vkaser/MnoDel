@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2011.07.24 19:35:00.503.cpp,C:\Users\НАТАША\Documents\RAD Studio\Projects\Unit1.cpp=C:\Users\НАТАША\Desktop\МноДел\MnoDel.cpp</Transaction>
+    <Transaction>2011.07.24 19:35:00.503.h,C:\Users\НАТАША\Documents\RAD Studio\Projects\Unit1.h=C:\Users\НАТАША\Desktop\МноДел\MnoDel.h</Transaction>
+    <Transaction>2011.07.24 19:35:00.503.dfm,C:\Users\НАТАША\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\НАТАША\Desktop\МноДел\MnoDel.dfm</Transaction>
+    <Transaction>2011.07.24 19:35:34.912.cbproj,C:\Users\НАТАША\Documents\RAD Studio\Projects\Project1.cbproj=C:\Users\НАТАША\Desktop\МноДел\MD.cbproj</Transaction>
+    <Transaction>2011.07.24 19:38:39.914.cpp,C:\Users\НАТАША\Desktop\МноДел\Unit2.cpp=C:\Users\НАТАША\Desktop\МноДел\Mnodel2.cpp</Transaction>
+    <Transaction>2011.07.24 19:38:39.914.h,C:\Users\НАТАША\Desktop\МноДел\Unit2.h=C:\Users\НАТАША\Desktop\МноДел\Mnodel2.h</Transaction>
+    <Transaction>2011.07.24 19:38:39.914.dfm,C:\Users\НАТАША\Desktop\МноДел\Unit2.dfm=C:\Users\НАТАША\Desktop\МноДел\Mnodel2.dfm</Transaction>
+    <Transaction>2011.07.24 19:38:48.400.cpp,C:\Users\НАТАША\Desktop\МноДел\Unit3.cpp=C:\Users\НАТАША\Desktop\МноДел\MnoDel3.cpp</Transaction>
+    <Transaction>2011.07.24 19:38:48.400.h,C:\Users\НАТАША\Desktop\МноДел\Unit3.h=C:\Users\НАТАША\Desktop\МноДел\MnoDel3.h</Transaction>
+    <Transaction>2011.07.24 19:38:48.400.dfm,C:\Users\НАТАША\Desktop\МноДел\Unit3.dfm=C:\Users\НАТАША\Desktop\МноДел\MnoDel3.dfm</Transaction>
+    <Transaction>2011.07.24 20:09:45.758.cpp,C:\Users\НАТАША\Desktop\МноДел\MnoDel3.cpp=</Transaction>
+    <Transaction>2011.07.24 20:09:45.758.dfm,C:\Users\НАТАША\Desktop\МноДел\MnoDel3.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
